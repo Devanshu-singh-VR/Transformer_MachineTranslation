@@ -1,4 +1,4 @@
 # Transformer_MachineTranslation
 
 
-Created a Transformer network from scratch for machine translation, for English to Hindi Translation.
+Created a Transformer network from scratch for English to Hindi translation in TensorFlow.
